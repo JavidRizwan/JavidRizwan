@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JavidRizwan
+- 👋 Hi, I’m Javid Rizwan
 - 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me javidrizwan1@gmail.com
 
 <!---
