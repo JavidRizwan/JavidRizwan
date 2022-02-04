@@ -5,6 +5,7 @@ Skills: React js, Redux, javascript, html5, css3.
 Recent projects 💻:
 1. [Markdown Previewer](https://app.netlify.com/sites/view-markdown)
 2. [Random Quote Generator](https://random-quote-maker.netlify.app/)
+3. [Calculator](https://javid-calculator.netlify.app/)
 
 <!---
 JavidRizwan/JavidRizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
