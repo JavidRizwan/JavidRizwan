@@ -1,6 +1,6 @@
 Hi, I am Javid Rizwan 👋  
 I am a react Js developer.  
-Skills: React js, Redux, javascript, html5, css3. 
+Skills: React js, Next.js, Redux. 
   
 Recent projects 💻:
 1. [Markdown Previewer](https://view-markdown.netlify.app/)
