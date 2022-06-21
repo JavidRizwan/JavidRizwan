@@ -1,6 +1,6 @@
 Hi, I am Javid Rizwan 👋  
 I am a react Js developer.  
-Skills: React js, Next.js, Redux, Material-ui, GSAP. 
+Skills: React js, Next.js, Redux, Material-ui. 
   
 <!---
 JavidRizwan/JavidRizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
