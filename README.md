@@ -1,5 +1,5 @@
-Hi, I am Javid Rizwan 👋  
-I am a Full-stack developer. 
+Hi, I am Javid Rizwan 👋 \
+I am a Full-stack developer. \
 Skills - Node.js Express.js, Next.js, React.js, Redux, etc.
   
 <!---
